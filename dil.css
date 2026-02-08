@@ -138,4 +138,74 @@
     color: white; 
     margin-left: 3vh; 
     margin-top: 4vh;
+ } 
+ .yakk { 
+    background-color: #686868;
+ } 
+ .ugll { 
+    padding-bottom: 10vh;
+ } 
+ .tet { 
+    width: 100%; 
+    height: 5vh;  
+    margin-top: 19vh;
+    margin-bottom: 17vh; 
+    display: flex; 
+    justify-content: center;
+ } 
+ .tet h1 { 
+    font-size: 9vh; 
+    color: #494B44;
+ } 
+
+ .parr { 
+    width: 90%; 
+    height: 95vh;  
+    margin-left: 5%;
+    
+    margin-top: 19vh; 
+ } 
+ .ska { 
+    width: 100%; 
+    height: 60%; 
+    display: flex; 
+    justify-content: space-between;
+ } 
+ .tttex { 
+    width: 30%; 
+    height: 100%; 
+   
+ } 
+ .surr { 
+    width: 66%; 
+    height: 100%; 
+ } 
+ .surr img { 
+    width: 100%; 
+    height: 100%;
+ }
+ .mayda { 
+    width: 100%; 
+    height: 30%;
+    margin-top: 2%;
+    
+    display: flex;
+    justify-content: space-between;
+ } 
+ .mayda img { 
+    width: 32%; 
+    height: 100%;
+ } 
+ .tttex h1 { 
+    font-size: 7vh; 
+    color: green;  
+    margin-left: 3vh; 
+    margin-top: 4vh;
+
+ } 
+ .tttex p { 
+    color: #92938F; 
+    margin-top: 5vh; 
+    margin-left: 3vh;
+    font-size: 2.8vh;
  }
