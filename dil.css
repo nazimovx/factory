@@ -1,0 +1,80 @@
+ * { 
+    margin: 0;
+ }
+ .k { 
+    width: 100%; 
+    height: 95vh; 
+    background-color: aqua; 
+    background-image: url(/photo/Rectangle\ 47.jpg); 
+    background-size: cover; 
+
+} 
+.sar {
+    display: flex; 
+    width: 90%; 
+    height: 10vh; 
+    margin-left: 5%; 
+    justify-content: space-between; 
+    align-items: center; 
+}  
+.s {
+    width: 15vh; 
+} 
+.in { 
+    width: 40%; 
+    height: 100%; 
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+
+} 
+.in p { 
+    color: white;
+} 
+.nomer { 
+    width: 20%; 
+    height: 100%; 
+    display: flex;
+    color: white;
+    justify-content: space-around; 
+    align-items: center;
+}
+.kalon { 
+    margin-top: 10vh;
+    width: 60%;
+    margin-left: 9vh; 
+    height: 60vh; 
+    
+
+}  
+.kalon p { 
+    color: white;
+    font-size: 4vh; 
+    margin-top: 7vh;
+}
+.kalon h1 { 
+    font-size: 11vh; 
+    color: white;
+} 
+.but {
+    width: 90%; 
+    margin-left: 5%; 
+    height: 10vh; 
+    display: flex; 
+    justify-content: space-between;
+} 
+.but button { 
+    width: 20vh; 
+    height: 7vh; 
+    background-color: green; 
+    color: white;
+    border: none; 
+    border-radius: 1vh; 
+    font-size: 2vh;
+} 
+.but img { 
+    width: 8vh; 
+    height: 8vh;
+
+} 
+
