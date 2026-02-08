@@ -208,4 +208,60 @@
     margin-top: 5vh; 
     margin-left: 3vh;
     font-size: 2.8vh;
+ } 
+ .cambr { 
+    width: 90%; 
+    margin-left: 5%; 
+    height: 90vh; 
+    margin-top: 15vh; 
+    background-image: url(/photo/cambr.jpg); 
+    background-size: cover; 
+    display: flex; 
+    justify-content: space-around;
+ } 
+ .chap { 
+    width: 42%; 
+    height: 100%; 
+    
+ }
+ .chapp { 
+    width: 42%; 
+    height: 90%; 
+    margin-top: 4.8%; 
+    background-image: url(/photo/sabz.png);
+    background-size: cover;
+ } 
+ .chap h1 { 
+    font-size: 7vh; 
+    color: white; 
+    margin-top: 14%; 
+ } 
+ .chap p  { 
+ 
+   
+    margin-top: 7vh;
+ } 
+ .chap a { 
+     color: #0E9E2F;
+         font-size: 4vh;  
+
+ } 
+ .chap .w { 
+    font-size: 4vh; 
+    color: #D2D2D2; 
+    margin-top: 12vh; 
+    
+ }  
+ .mayk { 
+    width: 80%; 
+    margin-left: 10%; 
+    margin-top: 10vh;
+ }
+ .mayk h1 { 
+   font-size: 4vh; 
+   color: white;
+ } 
+ .mayk p { 
+    margin-top: 2vh; 
+    color: #F2F2F2;
  }
