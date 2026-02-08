@@ -102,11 +102,12 @@
     height: 70vh; 
         background-color: #686868; 
         display: flex; 
-        justify-content: space-evenly; 
+        justify-content: space-evenly;  
+        padding-top: 10vh;
 
 } 
 .yak { 
-    width: 30%; 
+    width: 28%; 
     height: 100%; 
     background-color: #535353; 
     border-top-right-radius: 15vh;
