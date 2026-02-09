@@ -499,7 +499,81 @@
 .kkk { 
     width: 37%; 
     margin-left: 20vh; 
-    height: 90%; 
+    height: 92%; 
     background-image: url(/photo/sabz.png);  
     background-size: cover;
+} 
+
+label { 
+    color: white;
+    font-size: 3vh;
+    margin-left: 8vh;  
+
+    
+} 
+input { 
+    width: 80%; 
+    margin-left: 10%;  
+    height: 6vh;  
+    border-radius: 1vh; 
+    border: none;  
+    margin-top: 2vh;
+
+    
+} 
+.inn { 
+    margin-top: 8vh;
+} 
+.dta { 
+    width: 82%;  
+    margin-top: 5vh;
+    margin-left: 9%; 
+    height: 15vh; 
+    display: flex; 
+    justify-content: space-between;
+
+}  
+.mnol { 
+    margin-left: 0;
+}
+
+.ght { 
+    width: 46%; 
+
+} 
+.loll { 
+    width: 100%;
+} 
+select { 
+    width: 80%; 
+    margin-left: 10%;  
+    height: 6vh;  
+    border-radius: 1vh; 
+    border: none;  
+    margin-top: 2vh;
+
+    
+} 
+textarea { 
+    width: 80%; 
+    height: 13vh; 
+    border: none;
+    margin-left: 10%;
+} 
+.nkl { 
+    margin-top: 3vh;
+} 
+.kkk p { 
+    color: white; 
+    width: 80%; 
+    margin-left: 10%;
+} 
+.kkk button { 
+    width: 25vh; 
+    height: 6vh; 
+    border: 1px solid white; 
+    margin-left: 7.5vh; 
+    margin-top: 1.5vh; 
+    background-color: transparent; 
+    color: white;
 }
