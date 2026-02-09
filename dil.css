@@ -576,4 +576,36 @@ textarea {
     margin-top: 1.5vh; 
     background-color: transparent; 
     color: white;
+} 
+.footer { 
+    width: 100%; 
+    height: 60vh; 
+    padding-top: 10vh; 
+    background-color: #313131; 
+    display: flex;
+} 
+.yaak { 
+    width: 50vh; 
+    height: 70%; 
+
+    
+} 
+.yaak p { 
+    margin-top: 5vh; 
+    color: #F2F2F2;
+}  
+.prs { 
+    width: 40vh; 
+    height: 100%;  
+    margin-left: 6vh;
+} 
+.prs p { 
+   color: #e8e9e6; 
+   margin-top: 2.5vh;
+} 
+.digar { 
+    margin-top: 0vh; 
+    margin-bottom: 5vh; 
+    color: #92938F; 
+
 }
