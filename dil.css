@@ -401,4 +401,50 @@
     font-size: 2.5vh;
     margin-top: 7vh;
      background-color: rgb(224, 223, 223);
- }
+ } 
+
+ .strel p { 
+    color: #0E9E2F; 
+    font-size: 3vh;
+ }  
+ .barbar { 
+    width: 90%; 
+    height: 75vh; 
+    margin-left: 5%; 
+    display: flex; 
+    justify-content: space-between; 
+    margin-top: 10vh;
+ } 
+ .polo { 
+    width: 30%; 
+    height: 100%; 
+ 
+
+    
+ } 
+ .vc { 
+    width: 100%; 
+    height: 55%;  
+
+ } 
+ .vc img { 
+    width: 100%; 
+    height: 100%; 
+ } 
+.polo h1 { 
+    font-size: 4vh; 
+    margin-top: 3vh; 
+    color: #494B44;
+} 
+.polo p { 
+    margin-top: 2vh; 
+    color: #92938F; 
+    margin-bottom: 2vh;
+} 
+.polo span { 
+    color: green; 
+     
+} 
+.ffg { 
+    border: none;
+}
