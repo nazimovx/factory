@@ -321,7 +321,7 @@
 
 
  .strel {  
-    margin-top: 10vh; 
+    margin-top: 20vh; 
     width: 90%;  
     margin-left: 5%;
     height: 15vh; 
@@ -348,5 +348,57 @@
     justify-content: center;
  } 
  .ui h1 { 
-    font-size: 5vh;
+    font-size: 5vh; 
+    color: #0E9E2F; 
+ }  
+
+
+ .kol { 
+    width: 90%; 
+    margin-left: 5%; 
+    height: 65vh; 
+    
+    margin-top: 15vh; 
+    display: flex;
+    justify-content: space-between;
  } 
+ .mk { 
+    width: 31%; 
+    height: 100%; 
+    background-color: rgb(224, 223, 223); 
+    border-radius: 1vh;
+ } 
+ .mk h1 { 
+    width: 90%; 
+    height: 10vh; 
+    margin-left: 5%; 
+    border-bottom: 1px solid gray; 
+    color: #494B44; 
+    margin-top: 2vh;  
+    display: flex;
+    
+    align-items: center;
+ } 
+ .mk h3 { 
+    color: #0E9E2F; 
+    margin-left: 3vh; 
+    margin-top: 7vh; 
+    font-size: 3.5vh;
+ } 
+ .mk p { 
+    margin-left: 3vh; 
+    color: #92938F; 
+    margin-top: 5vh; 
+    font-size: 2.5vh;
+ } 
+ .mk button { 
+    width: 25vh; 
+    height: 8vh; 
+    color: #0E9E2F; 
+    border: none; 
+    margin-left: 3vh; 
+    text-align: left; 
+    font-size: 2.5vh;
+    margin-top: 7vh;
+     background-color: rgb(224, 223, 223);
+ }
