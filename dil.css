@@ -264,4 +264,30 @@
  .mayk p { 
     margin-top: 2vh; 
     color: #F2F2F2;
+ } 
+
+ .geo { 
+    display: flex; 
+    width: 90%; 
+    height: 20vh;  
+    margin-left: 5%;
+    margin-top: 15vh; 
+    justify-content: space-between;
+
+ } 
+ .geo h1 { 
+    font-size: 8vh; 
+    color: #494B44;
+ } 
+ .geo p { 
+    color: #92938F; 
+    font-size: 2.5vh;
+ } 
+ .xarita { 
+    width: 90%; 
+    height: 90vh; 
+    background-image: url(photo/xarita.png);  
+    background-size: cover;
+    margin-left: 5%; 
+    margin-top: 10vh;
  }
