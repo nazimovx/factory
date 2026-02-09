@@ -448,3 +448,58 @@
 .ffg { 
     border: none;
 }
+ 
+
+.oxirrr { 
+    width: 100%; 
+    height: 95vh; 
+    background-size: cover;  
+    margin-top: 15vh;
+    display: flex; 
+    align-items: center;
+    background-image: url(/photo/oxirrr.png);
+} 
+.ppp { 
+    width: 45%; 
+    margin-left: 5vh; 
+    height: 75%; 
+   
+} 
+.ppp h1 { 
+    color: white; 
+    font-size: 10vh;
+} 
+.ppp p { 
+    font-size: 2.5vh; 
+    color: #D2D2D2;  
+    margin-top: 3vh;
+} 
+.fflex { 
+    display: flex;  
+    margin-top: 3vh; 
+    
+} 
+.krug { 
+    width: 6vh; 
+    height: 6vh; 
+    border-radius: 3vh; 
+    border: 1.2px solid green;
+} 
+.fflex p { 
+    font-size: 2vh; 
+    margin-left: 1.9vh; 
+} 
+.ggg { 
+    display: flex;
+} 
+.chh { 
+    margin-left: 5vh;
+} 
+
+.kkk { 
+    width: 37%; 
+    margin-left: 20vh; 
+    height: 90%; 
+    background-image: url(/photo/sabz.png);  
+    background-size: cover;
+}
